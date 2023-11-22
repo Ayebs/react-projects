@@ -1,0 +1,19 @@
+.button {
+  padding: 0.2rem;
+  font-size: 1rem;
+  width: 6rem;
+  /* margin: 2px; */
+}
+
+.choreDiv {
+  display: flex;
+  align-items: center;
+  border: 1px solid purple; /* Add a border around the whole app */
+  padding: 10px;
+  gap: 5px;
+  margin-bottom: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
